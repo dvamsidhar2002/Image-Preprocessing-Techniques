@@ -3,5 +3,7 @@ This repository contains various image preprocessing techniques for variety of i
 
 ### Brain MRI Image Contouring
 Normal Brain MRI Image converted to Contoured MRI Image <br>
-<img src='no1482.jpg'>
-<img src='Brain Contoured image no 1482.png'>
+<p align="center">
+  <img src="no1482.jpg" alt="Normal MRI" width="300" height="300">
+  <img src="Brain Contoured image no 1482.png" alt="Contoured MRI" width="300" height="300">
+</p>
