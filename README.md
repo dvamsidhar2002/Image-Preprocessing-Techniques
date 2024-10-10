@@ -3,4 +3,4 @@ This repository contains various image preprocessing techniques for variety of i
 
 ### Brain MRI Image Contouring
 Normal Brain MRI Image
-<img src='n01482.jpg'>
+<img src='no1482.jpg'>
