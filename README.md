@@ -7,3 +7,7 @@ Normal Brain MRI Image converted to Contoured MRI Image <br>
   <img src="no1482.jpg" alt="Normal MRI" width="300" height="300">
   <img src="Brain Contoured image no 1482.png" alt="Contoured MRI" width="300" height="300">
 </p>
+Saliency Map Plotting <br>
+<p align="center">
+  <img src="Saliency_Map.png" alt="Contoured MRI" width="300" height="300">
+</p>
