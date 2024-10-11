@@ -9,5 +9,5 @@ Normal Brain MRI Image converted to Contoured MRI Image <br>
 </p>
 Saliency Map Plotting <br>
 <p align="center">
-  <img src="Saliency_Map.png" alt="Contoured MRI" width="300" height="300">
+  <img src="Saliency_Map.png" alt="Contoured MRI">
 </p>
