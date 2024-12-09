@@ -1,7 +1,7 @@
 # Image-Processing-Techniques
 This repository contains various image preprocessing techniques for variety of images like Brain MRI images, human face images.
 
-### Brain MRI Image Contouring
+### Brain MRI Image Contouring and Region Masking
 Normal Brain MRI Image converted to Contoured and Region Masked MRI Image <br>
 <p align="center">
   <img src="no1482.jpg" alt="Normal MRI" width="300" height="300">
