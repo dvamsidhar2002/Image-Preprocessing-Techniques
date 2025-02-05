@@ -12,3 +12,4 @@ Saliency Map Plotting <br>
   <img src="Saliency_Map.png" alt="Contoured MRI">
 </p>
 
+* <a href='https://github.com/dvamsidhar2002/Image-Processing-Techniques/blob/main/image%20format%20converter.py'>.NII files to .JPG converter</a>
